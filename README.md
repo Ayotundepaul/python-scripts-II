@@ -31,8 +31,8 @@ This repository contains a collection of Python scripts tailored for DevOps Engi
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone git@github.com:Ayotundepaul/python-scripts-II.git
+    cd python-scripts
     ```
 
 2. **Run the Scripts**:
@@ -48,4 +48,4 @@ This repository contains a collection of Python scripts tailored for DevOps Engi
 
 ---
 
-This README provides a clear overview of each script, its functionality, and usage instructions. Adjust the `<repository_url>` and `<repository_name>` placeholders as needed when setting up the repository.
+This README provides a clear overview of each script, its functionality, and usage instructions.
