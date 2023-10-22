@@ -27,6 +27,15 @@ This repository contains a collection of Python scripts tailored for DevOps Engi
     - Analyzes a log file and reports the count of `ERROR` and `WARN` messages.
     - Usage: `python log_analyzer.py`
 
+6. 🌐 **Network Speed Tester**:
+    - Measures the upload and download speeds of the current   internet connection.
+    - Usage: `python network_speed_tester.py`
+    - Dependencies: speedtest-cli
+
+7. 📦 **Automated Git Repository Cloner**:
+    - Clones a list of git repositories to the local machine.
+    - Usage: `python git_repo_cloner.py`
+
 ## 🚀 **Setup and Usage**
 
 1. **Clone the Repository**:
